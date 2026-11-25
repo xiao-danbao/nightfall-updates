@@ -4,9 +4,9 @@
 
 ## 最新版本
 
-- [v1.16.0 · GitHub 更新检查](https://github.com/xiao-danbao/nightfall-updates/releases/tag/v1.16.0)
-- 直接下载：[nightfall-1.16.0.zip](https://github.com/xiao-danbao/nightfall-updates/releases/download/v1.16.0/nightfall-1.16.0.zip)
-- 校验：[nightfall-1.16.0.zip.sha256](https://github.com/xiao-danbao/nightfall-updates/releases/download/v1.16.0/nightfall-1.16.0.zip.sha256)
+- [v1.17.0 · 深色首帧与悬浮选中框](https://github.com/xiao-danbao/nightfall-updates/releases/tag/v1.17.0)
+- 直接下载：[nightfall-1.17.0.zip](https://github.com/xiao-danbao/nightfall-updates/releases/download/v1.17.0/nightfall-1.17.0.zip)
+- 校验：[nightfall-1.17.0.zip.sha256](https://github.com/xiao-danbao/nightfall-updates/releases/download/v1.17.0/nightfall-1.17.0.zip.sha256)
 
 ## 扩展内更新
 
