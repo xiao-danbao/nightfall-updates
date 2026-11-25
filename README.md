@@ -4,9 +4,9 @@
 
 ## 最新版本
 
-- [v1.17.0 · 深色首帧与悬浮选中框](https://github.com/xiao-danbao/nightfall-updates/releases/tag/v1.17.0)
-- 直接下载：[nightfall-1.17.0.zip](https://github.com/xiao-danbao/nightfall-updates/releases/download/v1.17.0/nightfall-1.17.0.zip)
-- 校验：[nightfall-1.17.0.zip.sha256](https://github.com/xiao-danbao/nightfall-updates/releases/download/v1.17.0/nightfall-1.17.0.zip.sha256)
+- [v1.17.1 · 第三方网页悬停态修复](https://github.com/xiao-danbao/nightfall-updates/releases/tag/v1.17.1)
+- 直接下载：[nightfall-1.17.1.zip](https://github.com/xiao-danbao/nightfall-updates/releases/download/v1.17.1/nightfall-1.17.1.zip)
+- 校验：[nightfall-1.17.1.zip.sha256](https://github.com/xiao-danbao/nightfall-updates/releases/download/v1.17.1/nightfall-1.17.1.zip.sha256)
 
 ## 扩展内更新
 
@@ -16,3 +16,9 @@
 4. 解压并覆盖原扩展目录，打开 `edge://extensions` / `chrome://extensions` 点击「重新加载」。
 
 > 浏览器不允许未上架扩展静默替换自身文件，因此这里提供「检测 + 下载」的一键入口，安装步骤仍需手动确认。
+
+## 版本说明
+
+- **1.17.1**：修复第三方网页深色模式下的浅色悬停态，包括白底、白边、白色外阴影和白色鼠标焦点环；移出后完整还原。
+- **1.17.0**：深色首帧默认预涂，未知来源与新域名不再先闪白页；必应图片 / 视频悬浮白边改蓝色内描边。
+- **1.16.0**：GitHub Releases 更新检查，工具栏角标与设置弹窗更新横幅。
